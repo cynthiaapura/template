@@ -2,7 +2,7 @@
 
 Création d'un tableau
 
-[Lien vers la page](https://capura94.github.io/template/)
+[Lien vers la page](https://cynthiaapura.github.io/template/)
 >Exemple de code HTML
 ```html
 <div class="large-table-primary" role="region" aria-labelledby="table-primary"> 
